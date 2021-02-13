@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhav3117
+👋 Hi, I’m @vaibhav3117
 
 <!---
 vaibhav3117/vaibhav3117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
